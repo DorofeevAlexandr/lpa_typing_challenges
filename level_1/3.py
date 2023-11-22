@@ -1,7 +1,7 @@
 from constants import ___
 
 
-def compose_full_name(first_name: str | None, last_name: str | None, middle_name: str | None) -> str | None:
+def compose_full_name(first_name: str | None, last_name: str | None, middle_name: str | None) -> str:
     pass
 
 
